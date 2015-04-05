@@ -1,0 +1,80 @@
+Top 10 genres:
+Drama
+Thriller
+Crime
+Adventure
+Mystery
+Comedy
+Action
+Romance
+Fantasy
+War
+
+Fantasy movies:
+Title, Year, Rating
+The Lord of the Rings: The Return of the King, 2003, 8.9
+The Lord of the Rings: The Fellowship of the Ring, 2001, 8.8
+Star Wars, 1977, 8.8
+The Lord of the Rings: The Two Towers, 2002, 8.7
+It's a Wonderful Life, 1946, 8.7
+Toy Story 3, 2010, 8.5
+The Green Mile, 1999, 8.5
+Star Wars: Episode VI - Return of the Jedi, 2002, 8.4
+Monty Python and the Holy Grail, 1975, 8.4
+The Hobbit: An Unexpected Journey, 2012, 8.3
+Up, 2009, 8.3
+El laberinto del fauno, 2006, 8.3
+Toy Story, 1995, 8.3
+Det sjunde inseglet, 1957, 8.3
+How to Train Your Dragon, 2010, 8.2
+V for Vendetta, 2005, 8.2
+Tonari no Totoro, 1988, 8.2
+The Wizard of Oz, 1939, 8.2
+Harry Potter and the Deathly Hallows: Part 2, 2011, 8.1
+Hauru no ugoku shiro, 2004, 8.1
+Pirates of the Caribbean: The Curse of the Black Pearl, 2003, 8.1
+Groundhog Day, 1993, 8.1
+The Princess Bride, 1987, 8.1
+Tenkû no shiro Rapyuta, 1986, 8.1
+Stalker, 1979, 8.1
+81⁄2, 1963, 8.1
+Ratatouille, 2007, 8.0
+Big Fish, 2003, 8.0
+Monsters, Inc., 2001, 8.0
+Beauty and the Beast, 1991, 8.0
+
+Top 10 most productive comedy actors:
+Actor, Movies
+Charles Chaplin, 5
+John Ratzenberger, 5
+Bob Peterson, 3
+Hank Mann, 3
+John Goodman, 3
+Wallace Shawn, 3
+Al Ernest Garcia, 2
+Billy Crystal, 2
+Brad Garrett, 2
+Carol Cleveland, 2
+
+Top 10 most frequent pairs of actors who co-stared in the same movie:
+Actor A, Actor B, Co-stared Movies
+Christian Bale, Michael Caine, 4
+Joe Pesci, Robert De Niro, 4
+Al Pacino, John Cazale, 3
+Alec Guinness, Anthony Daniels, 3
+Alec Guinness, Carrie Fisher, 3
+Alec Guinness, David Prowse, 3
+Alec Guinness, Harrison Ford, 3
+Alec Guinness, Kenny Baker, 3
+Alec Guinness, Mark Hamill, 3
+Alec Guinness, Peter Mayhew, 3
+Anthony Daniels, Carrie Fisher, 3
+Anthony Daniels, David Prowse, 3
+Anthony Daniels, Harrison Ford, 3
+Anthony Daniels, Kenny Baker, 3
+Anthony Daniels, Mark Hamill, 3
+Anthony Daniels, Peter Mayhew, 3
+Benito Stefanelli, Clint Eastwood, 3
+Bibi Andersson, Gunnar Björnstrand, 3
+Billy Boyd, Cate Blanchett, 3
+Billy Boyd, Orlando Bloom, 3

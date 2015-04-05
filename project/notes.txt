@@ -1,0 +1,27 @@
+Yelp API:
+
+Consumer Key 	cdKLIdRVUr7vnYnsTWbiIA
+Consumer Secret 	gujwKmCVeIRDxB1QiWHCK4FPKiQ
+Token 	npddkfvdPPcQP9JtroXIeo6GaWqPIlWR
+Token Secret 	R9TFAp59AbjY8qtBVs0lwlwww3w
+
+Install YelpApi by Geoffrey Fairchild
+Github Link: https://github.com/gfairchild/yelpapi
+
+To install: pip install yelpapi
+
+Problems:
+YELP
+1. yelpapi from github because id of business is not known
+
+NYC
+1. removed the grade score as their were lot of missing values
+(this can be calculated later)
+2. accounted for missing grading dates
+3. accounted for missing scores
+4. Unicode characters
+5. missing names in nyc data
+
+Total:
+Records processed 8109
+Errors due to missing data: 394

@@ -1,0 +1,26 @@
+digraph G {
+umsi -> niftyc  [color=blue];
+umsi -> newscientist  [color=blue];
+UmichStudents -> CES_Michigan  [color=blue];
+UmichStudents -> MGoAbroad  [color=blue];
+UmichStudents -> umichLSA  [color=blue];
+nytimes -> jennyschuessler  [color=blue];
+nytimes -> nytimesarts  [color=blue];
+verge -> benpopper  [color=blue];
+verge -> deadmau5  [color=blue];
+verge -> MKBHD  [color=blue];
+techstars -> roundpegg  [color=blue];
+UMichiganNews -> umichARTS  [color=blue];
+UMichiganNews -> kelseymuseum  [color=blue];
+Forbes -> nathanvardi  [color=blue];
+VentureBeat -> RuthReader  [color=blue];
+VentureBeat -> amazon  [color=blue];
+VentureBeat -> HarrisonWeber  [color=blue];
+VentureBeat -> EAT24  [color=blue];
+umich -> UM_SPH  [color=blue];
+umich -> UMengineering  [color=blue];
+TechCrunch -> crunchbase  [color=blue];
+TechCrunch -> team8cyber  [color=blue];
+TechCrunch -> wandera  [color=blue];
+TechCrunch -> bottlenoseapp  [color=blue];
+}
